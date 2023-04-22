@@ -18,4 +18,4 @@ How did you interpret the user’s needs and implement them into your system des
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
   
-  
+  I followed an iterative approach where I tested in small batches to make sure everything works as intended and is what the client wants. It's important to write all the details down since it is easy to forget the little things. In the future I will definitely be sure to make sure I have all the details before I start designing software.
